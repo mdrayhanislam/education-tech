@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "name": "Computer Science",
+        "image": "https://i.ibb.co/mzS7GFr/computer.jpg",
+        "price": 15000,
+        "describe":"Computer science is the process of solving complex organizational problems using technical solutions. The reason this is such an important field is that computers and technology have been integrated into virtually every economic sector, industry, and even organization operating in the modern economy."
+       
+    },
+    {
+        "_id": 2,
+        "name": "Graphic Design",
+        "image": "https://i.ibb.co/fpgDmKd/graphic.webp",
+        "price": 9000,
+        "describe":" Graphic design not only makes something look good, it organizes information to help deliver a message in the most impactful way possible. When you combine the right image, a well-written headline, professionally executed in a well-established package. "
+        
+    },
+    {
+        "_id": 3,
+        "name": "Ethical Hacking",
+        "image": "https://i.ibb.co/HhKLNDH/ethical.jpg",
+        "price": 25000,
+        "describe":"The primary benefit of ethical hacking is to prevent data from being stolen and misused by malicious attackers, as well as: Discovering vulnerabilities from an attacker's POV so that weak points can be fixed. Implementing a secure network that prevents security breaches "
+       
+    },
+    {
+        "_id": 4,
+        "name": "Advance SEO",
+        "image": "https://i.ibb.co/g4yRTth/seo.jpg",
+        "price": 8000,
+        "describe":" Applied Advanced SEO Strategy The benefits of high rankings and strong visibility on Google extend into lead generation, impact, brand significance, lead conversion and customer loyalty. This is because 57% of sales begin at Google. It's an excellent launch point for a future customer. "
+        
+    },
+    {
+        "_id": 5,
+        "name": "Web Development",
+        "image": "https://i.ibb.co/gWQQmh9/web-Develop.png",
+        "price": 20000,
+        "describe":" A well-designed website is essential for reaching a larger audience and generating more leads or customers. Using a website, you can collect and read testimonials about your products and services much more quickly and easily. Web development and design help to promote a company's brand name. "
+        
+    }
+]
